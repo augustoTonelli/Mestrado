@@ -14,10 +14,16 @@ Representar o conhecimento referente às competências necessárias para a forma
 ---
 
 ## 🧩 Objetivos Específicos
-- Levantar competências identificadas na literatura sobre Ciência de Dados;  
-- Mapear competências nos documentos do MEC, SBC e PPCs;  
-- Comparar os diferentes referenciais para verificar **alinhamentos** e **desalinhamentos**;  
-- Propor uma **representação integrada do conhecimento** em Ciência de Dados.  
+- Examinar as competências para cursos de Ciência de Dados mencionadas na literatura.
+- Analisar as competências apresentadas nas diretrizes curriculares determinadas por órgão 
+governamental.
+- Identificar as competências sugeridas pela sociedade civil organizada em computação no 
+Brasil.
+- Coletar as propostas das instituições de ensino superior disponíveis em documentos 
+públicos na internet.
+- Representar o conhecimento para o objeto de estudo.
+- Discutir o conhecimento representado sob a perspectiva da GC.
+ 
 
 ---
 
