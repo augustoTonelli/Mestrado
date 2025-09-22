@@ -29,8 +29,8 @@ públicos na internet.
 
 ## 📑 Estrutura do Repositório
 
-📄 **[dissertacao.pdf](./dissertacao.pdf)**  
 Arquivo completo da dissertação.
+📄 **[dissertacao.pdf](./dissertacao.pdf)**  
 
 📊 **Dados** (`/dados`)  
 - `MEC_cursos.xlsx` – Cursos registrados no MEC até 2022.  
