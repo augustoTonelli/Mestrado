@@ -97,7 +97,7 @@ Documentos-base utilizados para extrair e comparar competências dos cursos:
 - **SBC (Sociedade Brasileira de Computação) - Sugestões para o Bacharelado em Ciência de Dados
   [Visualizar](./documentos/competencias/competencias_sbc.pdf)
 
-🔗 **Cursos analisados (origem das competências dos PPCs e IES)**  
+## 🔗 **Cursos analisados (origem das competências dos PPCs e IES)**  
 
 - [UFPB – Ciência de Dados e Inteligência Artificial](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR)  
 - [FATEC Ourinhos – Ciência de Dados](https://www.fatecourinhos.edu.br/cursos/ciencia/)  
@@ -113,9 +113,13 @@ Documentos-base utilizados para extrair e comparar competências dos cursos:
 ---
 
 ## 📊 Resultados Principais
-- **Alinhamentos** encontrados entre literatura, MEC e SBC em competências técnicas (estatística, programação, modelagem).  
-- **Desalinhamentos** identificados em competências transversais (ética, comunicação, aprendizagem contínua).  
-- Proposta de uso de **ferramentas de Gestão do Conhecimento** (ontologias, análise de lacunas, benchmarking, Balanced Scorecard) para estruturar o ensino em Ciência de Dados.  
+Os achados quantitativos reforçam que a expansão de cursos ligados à área de dados no Brasil ocorreu majoritariamente fora de diretrizes específicas para Ciência de Dados, com forte concentração no EAD e em IES privadas. A partir do recorte do MEC (dez/2022), observa-se um universo amplo de cursos ativos e, no subconjunto da área de dados, uma distribuição muito assimétrica: a imensa maioria das ofertas ocorre a distância e em instituições privadas, enquanto a presença em IES públicas e no formato presencial é minoritária. Esse pano de fundo ajuda a explicar a heterogeneidade dos PPCs e a dificuldade de garantir consistência formativa sem um referencial nacional específico para DS. 
+
+No plano qualitativo, a revisão da literatura converge para um núcleo de competências técnicas — estatística, matemática aplicada, programação e modelagem — associado a práticas de análise e visualização, o que aparece com força tanto na nuvem de palavras quanto no dendrograma (eixos “study/learn/student/compute”, “computer/science/analysis/research”). Esses artefatos textuais evidenciam a centralidade do processo ensino-aprendizagem e da base computacional na formação, além de conectarem competências técnicas a dimensões de experiência, currículo e prática. Em síntese: a literatura descreve um perfil de egresso que domina fundamentos quantitativos e computacionais e consegue transformá-los em solução analítica comunicável. 
+
+Ao comparar literatura, MEC/SBC e PPCs, emergem alinhamentos claros nas competências duras: fundamentos de probabilidade/estatística, programação, estruturação e qualidade de dados, modelagem/ML (quando presente) e visualização/comunicação técnica. Entretanto, surgem desalinhamentos recorrentes em competências transversais: ética e privacidade, comunicação para públicos não técnicos, pensamento crítico, aprendizagem contínua, gestão de projetos e trabalho colaborativo — dimensões frequentemente enfatizadas na literatura e nas recomendações da SBC, mas nem sempre evidentes ou operacionais nos PPCs analisados (por exemplo, como resultados de aprendizagem mensuráveis). Esses hiatos ajudam a explicar a percepção de descompasso entre expectativas do mercado/academia e a formação efetivamente declarada. 
+
+Nesse contexto, a representação do conhecimento cumpre papel estruturante: ao organizar conceitos, competências e relações (p. ex., via ontologias, análise de lacunas, benchmarking e BSC), torna visíveis os pontos de convergência entre fontes e explicita os gargalos onde faltam conteúdos, práticas ou avaliações. Como produto, ela facilita (i) o mapeamento de competências esperadas versus ofertadas, (ii) a priorização de ajustes curriculares (ex.: inserir ética de dados e comunicação executiva como resultados de aprendizagem), e (iii) a governança da atualização contínua, essencial numa área de rápida evolução. Assim, os resultados não apenas descrevem o estado atual, mas oferecem um guia operacional para aproximar PPCs das melhores evidências da literatura e das diretrizes correlatas, fortalecendo a formação do egresso em Ciência de Dados. 
 
 ---
 
