@@ -64,14 +64,14 @@ A análise sistemática da literatura possibilitou o levantamento das principais
 ---
 
 ### 📌 Nuvem de palavras
-👉 Espaço reservado para inserir a nuvem de palavras (Iramuteq):
+A nuvem de palavras revelou a predominância dos termos student, compute, study e learn, indicando a centralidade do estudante e do aprendizado em computação. Em seguida, destacam-se education, experience, program e research, reforçando a ligação entre prática acadêmica e profissional. Além disso, palavras como design, practice, science e curriculum apontam para a importância dos currículos e modelos pedagógicos na formação em Ciência de Dados.
 
 ![Nuvem de Palavras](./imagens/Nuvem_Palavras.png)
 
 ---
 
 ### 📌 Dendrograma
-👉 Espaço reservado para inserir dendrograma (Iramuteq):
+O dendrograma agrupou as competências em seis classes principais. A primeira reúne termos como program, factor e compute, reforçando a base técnica da área. Outras classes se voltam para a formação acadêmica com destaque para student, education, curriculum e experience, além da ênfase em learn e study, ligados ao processo de aprendizagem. Também aparecem agrupamentos voltados a computer science, analysis e research, e a aspectos de process, model e competency, evidenciando a integração entre técnica, ensino e prática. Esses grupos revelam como as competências se inter-relacionam, equilibrando dimensões técnicas, pedagógicas e de aplicação prática.
 
 ![Dendrograma](./imagens/Dendrograma.png)
 
