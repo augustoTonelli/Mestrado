@@ -79,8 +79,6 @@ O dendrograma agrupou as competências em seis classes principais. A primeira re
 
 ## 📑 Documentos
 
-📄 **[dissertacao.pdf](./dissertacao.pdf)** – Arquivo completo da dissertação.  
-
 ## 📚 Competências (MEC & SBC)
 
 Documentos-base utilizados para extrair e comparar competências dos cursos:
