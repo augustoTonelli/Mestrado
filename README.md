@@ -86,20 +86,16 @@ O dendrograma agrupou as competências em seis classes principais. A primeira re
 Documentos-base utilizados para extrair e comparar competências dos cursos:
 
 - **MEC – Diretrizes dos cursos de Computação**  
-  [Baixar PDF](./documentos/competencias/competencias_computacao.pdf)
+  [Visualizar](./documentos/competencias/competencias_computacao.pdf)
 
 - **MEC – Diretrizes do curso de Estatística**  
-  [Baixar PDF](./documentos/competencias/competencias_estatistica.pdf)
+  [Visualizar](./documentos/competencias/competencias_estatistica.pdf)
 
 - **MEC – Diretrizes do curso de Matemática**  
-  [Baixar PDF](./documentos/competencias/competencias_matematica.pdf)
+  [Visualizar](./documentos/competencias/competencias_matematica.pdf)
 
 - **SBC (Sociedade Brasileira de Computação) - Sugestões para o Bacharelado em Ciência de Dados
-  [Baixar PDF](./documentos/competencias/competencias_sbc.pdf)
-
-📊 **Dados** (`/dados`)  
-- `MEC_cursos.xlsx` – Cursos registrados no MEC até 2022.  
-- `PPCs_analisados.xlsx` – Planilhas com as competências extraídas dos PPCs.  
+  [Visualizar](./documentos/competencias/competencias_sbc.pdf)
 
 🔗 **Cursos analisados (origem das competências dos PPCs e IES)**  
 
