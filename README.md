@@ -33,6 +33,7 @@ Representar o conhecimento referente as competências necessárias para a forma�
 ## ⚙️ Metodologia
 
 A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estruturada em três etapas principais:
+![Metodologia](./imagens/metodologia.jpg)
 
 1. **Busca nas bases científicas**  
    - Bases utilizadas: ACM Digital Library e IEEEXplore.  
@@ -51,14 +52,6 @@ A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estrutu
    - Mapeamento das competências encontradas na literatura.  
    - Comparação com MEC, SBC e PPCs.  
    - Identificação de alinhamentos e desalinhamentos.  
-
----
-
-### 📌 Representação visual da metodologia
-👉 Espaço reservado para a imagem que resume sua metodologia (fluxograma ou desenho):
-
-
-![Metodologia](./imagens/metodologia.jpg)
 
 ---
 
