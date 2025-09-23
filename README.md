@@ -57,7 +57,7 @@ A pesquisa é **aplicada, qualitativa, exploratória e documental**, estruturada
 ---
 
 ### 📌 Competências encontradas na literatura
-👉 Espaço reservado para quadro/tabela de competências:
+A análise sistemática da literatura possibilitou o levantamento das principais competências associadas à formação em Ciência de Dados. Observou-se a predominância de habilidades técnicas ligadas à estatística, matemática e programação, acompanhadas de competências transversais como comunicação, ética e aprendizagem contínua.
 
 ![Competências Literatura](./imagens/competencias_literatura.png)
 
