@@ -11,8 +11,8 @@ Repositório com os dados, imagens e materiais complementares utilizados na diss
 
 ---
 
-## 🎯 Objetivo da Pesquisa
-Representar o conhecimento referente às competências necessárias para a formação superior em Ciência de Dados, com base em quatro grandes fontes:
+## 🎯 Objetivo Geral
+Representar o conhecimento referente as competências necessárias para a formação superior em Ciência de Dados conforme a determinação dos órgãos governamentais, a sugestão da sociedade civil organizada e as propostas de instituições de ensino superior, com base em quatro grandes fontes:
 - **Diretrizes Curriculares do MEC** (Computação, Matemática, Estatística);
 - **Sugestões da Sociedade Brasileira de Computação (SBC)**;
 - **Projetos Pedagógicos de Cursos (PPCs)** das IES brasileiras;
