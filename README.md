@@ -27,7 +27,7 @@ públicos na internet.
 
 ---
 
-## 📑 Estrutura do Repositório
+## 📑 Documentos
 
 Arquivo completo da dissertação.
 📄 **[dissertacao.pdf](./dissertacao.pdf)**  
