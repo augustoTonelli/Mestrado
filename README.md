@@ -1,6 +1,6 @@
 # 📊 Competências em Ciência de Dados: A Representação do Conhecimento dos Cursos Superiores no Brasil
 
-Repositório com os dados, imagens e materiais complementares utilizados na dissertação de mestrado desenvolvida no **Programa de Pós-Graduação em Gestão do Conhecimento nas Organizações (PPGGCO) da UNICESUMAR**.
+Repositório com os dados, imagens e materiais complementares utilizados na dissertação de mestrado desenvolvida no **Programa de Pós-Graduação em Gestão do Conhecimento nas Organizações (PPGGCO) da UNICESUMAR pelo aluno Augusto Agostini Tonelli**.
 
 ---
 
