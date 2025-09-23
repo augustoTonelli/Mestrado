@@ -32,8 +32,9 @@ Representar o conhecimento referente as competências necessárias para a forma�
 
 ## ⚙️ Metodologia
 
-A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estruturada em três etapas principais:
 ![Metodologia](./imagens/metodologia.jpg)
+
+A pesquisa é **aplicada, qualitativa, exploratória e documental**, estruturada em três etapas principais:
 
 1. **Busca nas bases científicas**  
    - Bases utilizadas: ACM Digital Library e IEEEXplore.  
