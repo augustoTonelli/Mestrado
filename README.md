@@ -57,6 +57,7 @@ A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estrutu
 ### 📌 Representação visual da metodologia
 👉 Espaço reservado para a imagem que resume sua metodologia (fluxograma ou desenho):
 
+
 ![Metodologia](./imagens/metodologia.png)
 
 ---
