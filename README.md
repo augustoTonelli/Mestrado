@@ -35,12 +35,12 @@ Representar o conhecimento referente às competências necessárias para a forma
 A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estruturada em três etapas principais:
 
 1. **Busca nas bases científicas**  
-   - Bases utilizadas: Scopus, Web of Science, Google Scholar, entre outras.  
+   - Bases utilizadas: ACM Digital Library e IEEEXplore.  
    - String de busca utilizada:  
      ```
-     ("Data Science" OR "Ciência de Dados") AND (competencies OR skills OR "competências")
+     :‘Learning’ AND (‘Competence’ OR ‘Skill OR, ‘Expertise’) AND 'Data Science')
      ```
-   - Critérios de inclusão: artigos revisados por pares, publicados entre 2010 e 2024, com foco em formação ou competências de Ciência de Dados.  
+   - Critérios de inclusão: Periódicos da área educacional; Artigos completos; Publicações entre 01/01/2020 e 31/07/2024.  
 
 2. **Análise documental**  
    - Diretrizes do MEC para Computação, Matemática e Estatística.  
@@ -51,7 +51,6 @@ A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estrutu
    - Mapeamento das competências encontradas na literatura.  
    - Comparação com MEC, SBC e PPCs.  
    - Identificação de alinhamentos e desalinhamentos.  
-   - Uso de ferramentas da Gestão do Conhecimento (ontologias, análise de lacunas, benchmarking, Balanced Scorecard).
 
 ---
 
@@ -90,10 +89,6 @@ A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estrutu
 📊 **Dados** (`/dados`)  
 - `MEC_cursos.xlsx` – Cursos registrados no MEC até 2022.  
 - `PPCs_analisados.xlsx` – Planilhas com as competências extraídas dos PPCs.  
-
-🖼 **Imagens** (`/imagens`)  
-- Gráficos, nuvens de palavras e dendrogramas gerados durante a análise.  
-- Exemplos já reservados neste README.  
 
 🔗 **Cursos analisados (origem das competências dos PPCs e IES)**  
 
