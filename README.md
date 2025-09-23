@@ -125,7 +125,7 @@ Em síntese, os dados indicam que o Brasil já consolidou um padrão mínimo té
 ---
 
 ## 🛠 Ferramentas Utilizadas
-- **Excel**: para tratamento das bases do MEC.  
+- **Excel**: para tratamento das bases de dados das competências.  
 - **Iramuteq**: geração de dendrograma e nuvem de palavras.  
 - **Overleaf (LaTeX)**: organização da dissertação.  
 - **GitHub**: disponibilização dos dados para consulta pública.
