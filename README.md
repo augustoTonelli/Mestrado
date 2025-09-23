@@ -71,14 +71,14 @@ A pesquisa é **aplicada, qualitativa, exploratória e bibliográfica**, estrutu
 ### 📌 Nuvem de palavras
 👉 Espaço reservado para inserir a nuvem de palavras (Iramuteq):
 
-![Nuvem de Palavras](./imagens/nuvem_palavras.png)
+![Nuvem de Palavras](./imagens/Nuvem_Palavras.png)
 
 ---
 
 ### 📌 Dendrograma
 👉 Espaço reservado para inserir dendrograma (Iramuteq):
 
-![Dendrograma](./imagens/dendrograma.png)
+![Dendrograma](./imagens/Dendrograma.png)
 
 ---
 
