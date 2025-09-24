@@ -93,7 +93,7 @@ Documentos-base utilizados para extrair e comparar competências dos cursos:
   [Visualizar](./documentos/competencias/competencias_matematica.pdf)
 
 - **SBC - Sugestões para o Bacharelado em Ciência de Dados**
-  [Visualizar](./documentos/competencias/competencias_sbc.pdf)
+  [Visualizar](./documentos/competencias/competências_sbc.pdf)
 
 ## 🔗 **Cursos analisados (origem das competências dos PPCs e IES)**  
 
